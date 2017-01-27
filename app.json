@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/list/list",
+    "pages/add/add"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#ff9",
+    "navigationBarTitleText": "新年许愿吧",
+    "navigationBarTextStyle":"black"
+  }
+}

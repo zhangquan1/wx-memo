@@ -1,0 +1,9 @@
+<view class = "page">
+    <view class = "pages-t">
+        <input type="text" bindinput = "change" placeholder="请输入文字" value = "{{content}}"/>
+    </view>
+    <view class = "btns">
+        <view class = "sure" bindtap = "sureBtn">确定</view>
+        <view class = "cancle" bindtap = "cancleBtn">取消</view>
+    </view>
+</view>

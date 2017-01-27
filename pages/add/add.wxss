@@ -1,0 +1,15 @@
+.page{
+    display: flex;
+    flex-direction: column;
+}
+.pages-t{
+    height:90%;
+    width:100%;
+}
+.btns{
+    flex:1;
+    display: flex;
+    justify-content: space-around;
+    background:#9ff;
+    align-items: center;
+}
